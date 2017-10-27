@@ -1,5 +1,5 @@
 ;;; Project	: 	GP Arithmetic Critters
-;;; Filename	:	CPSC-481-p2b_DASA.lisp
+;;; Filename	:	gp-arithmetic-critters.lisp
 ;;; Class	: 	CPSC - 481 13593 AI
 ;;; Section 	: 	3
 ;;; Team	: 	DASA

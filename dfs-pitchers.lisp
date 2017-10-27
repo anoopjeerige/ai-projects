@@ -1,12 +1,12 @@
 ;;; Project	: 	DFS Pitchers Part 1
-;;; Filename:	CPSC-481-p1_DAX.lisp
+;;; Filename	:	dfs-pitchers.lisp
 ;;; Class	: 	CPSC - 481 13593 AI
-;;; Section : 	3
+;;; Section 	: 	3
 ;;; Team	: 	DAX
 ;;; Authors	: 	Devon Cook
 ;;; 	 		Anoop Jeerige
-;;; Contact : 	dcook03@csu.fullerton.edu
-;;; 	       	anoopjeerige@csu.fullerton.edu
+;;; Contact : 		dcook03@csu.fullerton.edu
+;;; 	       		anoopjeerige@csu.fullerton.edu
 ;;; 
 ;;; LISP program to find the sequence of to solve the pitcher puzzle using
 ;;; Depth-First Search (DFS) 

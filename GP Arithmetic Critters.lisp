@@ -1,16 +1,16 @@
 ;;; Project	: 	GP Arithmetic Critters
-;;; Filename:	CPSC-481-p2b_DASA.lisp
+;;; Filename	:	CPSC-481-p2b_DASA.lisp
 ;;; Class	: 	CPSC - 481 13593 AI
-;;; Section : 	3
+;;; Section 	: 	3
 ;;; Team	: 	DASA
 ;;; Authors	: 	Devon Cook
 ;;; 	 		Anoop Jeerige
-;;;             Sean Holmes
-;;;				Andrew Nguyen
-;;; Contact : 	dcook03@csu.fullerton.edu
-;;; 	       	anoopjeerige@csu.fullerton.edu
-;;;				Seanholmes@csu.fullerton.edu
-;;;				andrew_dd_n@csu.fullerton.edu
+;;;             	Sean Holmes
+;;;			Andrew Nguyen
+;;; Contact 	: 	dcook03@csu.fullerton.edu
+;;; 	       		anoopjeerige@csu.fullerton.edu
+;;;			Seanholmes@csu.fullerton.edu
+;;;			andrew_dd_n@csu.fullerton.edu
 ;;;
 ;;; References
 ;;; 1) http://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html
